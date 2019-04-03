@@ -15,7 +15,7 @@
    id="svg3050"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="vocal.svg"
+   sodipodi:docname="a.svg"
    style="enable-background:new"
    inkscape:export-filename="/home/marc/Daten.2019/kunden/lina/Letter-Cardgame/png/DE/a.png"
    inkscape:export-xdpi="359.29999"
@@ -188,7 +188,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
