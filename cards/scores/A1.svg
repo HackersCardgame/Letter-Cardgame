@@ -2112,7 +2112,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="hacking"
      id="l26"
      inkscape:groupmode="layer">
@@ -2197,7 +2197,7 @@
      inkscape:groupmode="layer"
      id="l27"
      inkscape:label="symbol"
-     style="display:inline">
+     style="display:none">
     <rect
        ry="10.133338"
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.0666672;enable-background:new"
