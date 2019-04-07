@@ -53,7 +53,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.65366473"
-     inkscape:cx="431.9614"
+     inkscape:cx="572.01684"
      inkscape:cy="334.3609"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2498,5 +2498,15 @@
          id="rect12533-10"
          style="display:inline;opacity:0.71929824;fill:none;stroke:#000100;stroke-width:0.54503578;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="347.27283"
+       y="1280.0928"
+       id="text29584"><tspan
+         sodipodi:role="line"
+         id="tspan29582"
+         x="347.27283"
+         y="1280.0928">https://de.wikipedia.org/wiki/Unicodeblock_Notenschriftzeichen</tspan></text>
   </g>
 </svg>
