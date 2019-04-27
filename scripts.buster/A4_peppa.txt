@@ -1,0 +1,8 @@
+../cards/peppa/george.svg
+../cards/peppa/peppa.svg
+../cards/peppa/x.svg
+../cards/peppa/y.svg
+../cards/peppa/oma.svg
+../cards/peppa/papa.svg
+../cards/peppa/opa.svg
+../cards/peppa/mama.svg

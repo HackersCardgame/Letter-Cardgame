@@ -94,7 +94,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
      sleep 0.5
      xdotool key Down Down Down Down Down Down Donw Up Up
      sleep 0.1
-     xdotool key Tab Tab Tab Tab Tab
+     xdotool key Tab Tab Tab Tab
      sleep 0.5
      xdotool key KP_Enter
      sleep 0.5

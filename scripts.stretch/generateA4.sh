@@ -1,4 +1,4 @@
-#!/bin/bash
+  #!/bin/bash
 
 
 if  [ "$1" = "" ]
@@ -33,14 +33,14 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
    then 
      inkscape ../assembled/$1/A4/templateA4.svg &
      file=$(basename $i .svg)
-     sleep 8
+     sleep 4
    else
      file=$file-$(basename $i .svg)
    fi
    echo $i
    echo $file 
    /usr/bin/inkscape $i &
-   sleep 6
+   sleep 4
    xdotool key Ctrl+Alt+a
    sleep 2
    xdotool key Ctrl+c
@@ -70,7 +70,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
      sleep 0.2
      xdotool type '2'
      sleep 0.2
-     xdotool key Tab Tab Tab
+     xdotool key Tab Tab
      sleep 0.2
      #xdotool type '4'
      sleep 0.2
@@ -92,7 +92,9 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
      sleep 0.8
      xdotool key Shift+Ctrl+a
      sleep 0.5
-     xdotool key Tab Tab Tab Tab Tab
+     xdotool key Down Down Down Down Down Down Donw Up Up
+     sleep 0.1
+     xdotool key Tab Tab Tab Tab
      sleep 0.5
      xdotool key KP_Enter
      sleep 0.5
