@@ -1,0 +1,8 @@
+../png/scores/A1.png
+../png/scores/G1.png
+../png/scores/tastenvorlagen.png
+../png/scores/C1.png
+../png/scores/H1.png
+../png/scores/E1.png
+../png/scores/D1.png
+../png/scores/F1.png

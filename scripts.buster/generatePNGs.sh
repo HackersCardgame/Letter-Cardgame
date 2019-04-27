@@ -17,7 +17,7 @@ exit 0
 fi
 
 
-clear
+mkdir -p ../png/$1
 
 
 find ../cards/$1 -name "*.svg" >./PNGs.txt

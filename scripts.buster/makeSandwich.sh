@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+sudo apt-get install xdotool
 
 find ../cards/ -maxdepth 1 -type d| grep -v ^.$ |cut -c 9-  |grep -v ^$ >all.txt
 
