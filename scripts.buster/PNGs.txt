@@ -1,4 +1,3 @@
-../cards/buchstaben/note_E.svg
 ../cards/buchstaben/p.svg
 ../cards/buchstaben/f.svg
 ../cards/buchstaben/a.svg
@@ -8,10 +7,7 @@
 ../cards/buchstaben/A7_en.svg
 ../cards/buchstaben/e.svg
 ../cards/buchstaben/k.svg
-../cards/buchstaben/note_D.svg
-../cards/buchstaben/note_G.svg
 ../cards/buchstaben/y.svg
-../cards/buchstaben/note_F.svg
 ../cards/buchstaben/s.svg
 ../cards/buchstaben/w.svg
 ../cards/buchstaben/q.svg
@@ -25,10 +21,8 @@
 ../cards/buchstaben/b.svg
 ../cards/buchstaben/r.svg
 ../cards/buchstaben/d.svg
-../cards/buchstaben/note_H.svg
 ../cards/buchstaben/z.svg
 ../cards/buchstaben/m.svg
 ../cards/buchstaben/c.svg
 ../cards/buchstaben/vocal.svg
 ../cards/buchstaben/u.svg
-../cards/buchstaben/note_C.svg

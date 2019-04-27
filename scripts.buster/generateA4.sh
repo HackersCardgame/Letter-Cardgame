@@ -33,14 +33,14 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
    then 
      inkscape ../assembled/$1/A4/templateA4.svg &
      file=$(basename $i .svg)
-     sleep 8
+     sleep 4
    else
      file=$file-$(basename $i .svg)
    fi
    echo $i
    echo $file 
    /usr/bin/inkscape $i &
-   sleep 6
+   sleep 4
    xdotool key Ctrl+Alt+a
    sleep 2
    xdotool key Ctrl+c
