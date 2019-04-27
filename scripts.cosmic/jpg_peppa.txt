@@ -1,0 +1,8 @@
+../png/peppa/opa.png
+../png/peppa/george.png
+../png/peppa/peppa.png
+../png/peppa/papa.png
+../png/peppa/x.png
+../png/peppa/mama.png
+../png/peppa/oma.png
+../png/peppa/y.png
