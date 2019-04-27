@@ -13,7 +13,7 @@
    height="423.31021"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="D1.svg"
    style="enable-background:new">
   <defs
@@ -161,10 +161,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2071525"
-     inkscape:cx="49.940637"
-     inkscape:cy="211.65511"
+     inkscape:cx="-117.3953"
+     inkscape:cy="138.18001"
      inkscape:document-units="px"
-     inkscape:current-layer="l06"
+     inkscape:current-layer="l02"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -224,7 +224,7 @@
        height="341.3335"
        width="245.33344"
        id="rect11026"
-       style="fill:#80ffb3;fill-opacity:1;stroke-width:1.0666672" />
+       style="fill:#d7f4e3;fill-opacity:1;stroke-width:1.0666672" />
   </g>
   <g
      inkscape:label="background-other"
