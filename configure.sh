@@ -26,7 +26,7 @@ if echo "$answer" | grep -iq "^y"
   sudo apt-get install xdotool
   sudo apt-get install figlet
   sudo apt-get install cups-pdf
-  sudo apt-get remove clipit
+  #sudo apt-get remove clipit
 
   cd ./fonts
   ./fonts.sh
