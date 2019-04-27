@@ -1,0 +1,8 @@
+../cards/scores/D1.svg
+../cards/scores/C1.svg
+../cards/scores/A1.svg
+../cards/scores/G1.svg
+../cards/scores/tastenvorlagen.svg
+../cards/scores/H1.svg
+../cards/scores/E1.svg
+../cards/scores/F1.svg
