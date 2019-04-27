@@ -1,0 +1,4 @@
+/
+/template
+/scores
+/buchstaben
